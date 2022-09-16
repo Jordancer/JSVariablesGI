@@ -9,7 +9,7 @@ if (p === up) {
   // {break} {
   alert("Speak Up I Cant Hear You.");
 } else if (p === reg) {
-  alert("Hello");
+  alert("Hello Friend");
 } else {
   alert("You Dont Follow Directions Well.");
 }
