@@ -5,7 +5,7 @@ var sub = a - b;
 var multi = a * b;
 var div = a / b;
 
-console.log(add);
-console.log(sub);
-console.log(multi);
-console.log(div);
+alert("25 + 5 = " + add);
+alert("25 - 5 = " + sub);
+alert("25 * 5 = " + multi);
+alert("25 / 5 = " + div);
